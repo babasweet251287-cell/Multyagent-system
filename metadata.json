@@ -1,0 +1,5 @@
+{
+  "name": "AI Multi-Agent System",
+  "description": "A multi-agent system that decomposes tasks and executes them in parallel using an Express backend and React frontend.",
+  "requestFramePermissions": []
+}
